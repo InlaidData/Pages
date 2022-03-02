@@ -2,27 +2,27 @@ Requirements Specification for [RPG Video Game/Everblade]
 
 <h1>Introduction</h1>
 
-###1.1 Purpose of Product
+<h3>Purpose of Product</h3>
 
 -The purpose of this game is mainly to entertain. We aim to meet this goal by creating an environment that is fun and engaging to spend time in. This environment will allow the player to escape whatever problems they are currently facing in the world.
 
-###1.2 Scope of Product
+<h3>Scope of Product</h3>
 
 The product is overall going to be a fantasy hack and slash. Hack and slash would mean that the player controls a character in game that has health and is able to deal damage to enemies. These enemies in turn also have health and are able to damage the player. Should the players HP (health points) reach zero, they are able to respawn and continue playing the game.
 
 
-
+<h1>Game Problem Statement</h1>
 Our project will be a 2D top down role playing game, rpg for short.  We decided to use the unity engine. Now, If you’ve ever played the original legend of zelda, you already have an idea of what our game is 
 going to look like. If you haven’t seen that game then just imagine a little sticker on your table that moves around. Like Legend of Zelda, our video game will be set in a high fantasy world. 
 So if you’ve ever played dungeons and dragons or even skyrim, some of the elements in those games will be found in ours. For example, we’ll have dwarves and goblins and even magic. 
 We’re going for a more lighthearted theme.
 
 
-##Dialogue
+<h3>Dialogue</h3>
 We plan to have some sort of dialogue in the game. This will be mainly text based. For example, when talking with merchants or quest givers, you can expect some sort of dialogue box to appear above them.
 
 
-##Worlds
+<h3>Worlds</h3>
 There will be 2 worlds, one is the overworld and the other is all the different caves / dungeons. Within the dungeons there are going to be enemies and loot that spawns on the ground or in chests. Also, it is these dungeons
 where quests will be based. The quests will often have you go to retrieve certain items from dungeons.
 Most of this loot is going to be in the form of rubies in which you tak back to the main villiage / town and purchase better gear such as armor or weapons, or potions which will add health, stamina, or magic. 
@@ -32,7 +32,7 @@ this will introduce a kind of linear progression.
 
 
 
-##Game Core:
+<h3>Game Core:</h3>
     
     A central over world and a small base with several merchants and quest givers. For example, you get a quest and its in a dungeon, you retrieve an item and you bring it back. Or certain quests will have
     you kill a certain enemy or amount of enemies. 
@@ -40,18 +40,19 @@ this will introduce a kind of linear progression.
 
 
 
-##Gear:
+<h3>Gear:</h3>
     
-    Armor - Chainmail armor, Plate armor, and leather armor. Leather armor being the weakest and offering the least defense boost. With plate offering the most defense and being the most durable. Chainmail is somewhere inbetween.
+    <b>Armor</b> - Chainmail armor, Plate armor, and leather armor. Leather armor being the weakest and offering the least defense boost. With plate offering the most defense and being the most durable. Chainmail is somewhere inbetween.
 
-    Weapons - Swords, daggers, bow / arrows, and magic spells. Bows and Magic Spells offer ranged attacks while swords and daggers offer up close combat.
+    <b>Weapons</b> - Swords, daggers, bow / arrows, and magic spells. Bows and Magic Spells offer ranged attacks while swords and daggers offer up close combat.
     
-    Potions - Health and Magic / Mana potions. All of these will add the their respective fields. 
+    <b>Potions</b> - Health and Magic / Mana potions. All of these will add the their respective fields. 
     
-    Fountains - Health and Magic fountains where if you go near them they will either fill or bar / capacity or add some to it.
+    <b>Fountains</b> - Health and Magic fountains where if you go near them they will either fill or bar / capacity or add some to it.
     
-##Maps:
+<h3>Maps:</h3>
     
-    Overworld - Main town / village / hub where you will have a main base with a few merchants around. You can trade with merchants using Rubies and store loot and gear in your main base / house. There will also be quest givers that will you give out incentives to go into dungeons.
+    <b>Overworld</b> - Main town / village / hub where you will have a main base with a few merchants around. You can trade with merchants using Rubies and store loot and gear in your main base / house. 
+  		       There will also be quest givers that will you give out incentives to go into dungeons.
     
-    Caves - Dungeons will have enemies, loot, and fountians. You go in, kill some stuff, grab some stuff, then head out.
+    <b>Caves</b> - Dungeons will have enemies, loot, and fountians. You go in, kill some stuff, grab some stuff, then head out.
