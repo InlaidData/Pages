@@ -1,6 +1,6 @@
 ## 2D RPG Game
 
-1. [Problem Statement](https://inlaiddata.github.io/Pages/problem.md)
+1. [Problem Statement](problem.html)
 
 2. [User Stories](userstories.md)
 
