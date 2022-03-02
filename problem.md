@@ -32,7 +32,7 @@ this will introduce a kind of linear progression.
 
 
 
-<h3>Game Core:</h3>
+<h3>Game Core</h3>
     
     A central over world and a small base with several merchants and quest givers. For example, you get a quest and its in a dungeon, you retrieve an item and you bring it back. Or certain quests will have
     you kill a certain enemy or amount of enemies. 
@@ -40,7 +40,7 @@ this will introduce a kind of linear progression.
 
 
 
-<h3>Gear:</h3>
+<h3>Gear</h3>
     
     <b>Armor</b> - Chainmail armor, Plate armor, and leather armor. Leather armor being the weakest and offering the least defense boost. With plate offering the most defense and being the most durable. Chainmail is somewhere inbetween.
 
@@ -50,7 +50,7 @@ this will introduce a kind of linear progression.
     
     <b>Fountains</b> - Health and Magic fountains where if you go near them they will either fill or bar / capacity or add some to it.
     
-<h3>Maps:</h3>
+<h3>Maps</h3>
     
     <b>Overworld</b> - Main town / village / hub where you will have a main base with a few merchants around. You can trade with merchants using Rubies and store loot and gear in your main base / house. 
   		       There will also be quest givers that will you give out incentives to go into dungeons.
