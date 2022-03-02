@@ -1,6 +1,6 @@
 Requirements Specification for [RPG Video Game/Everblade]
 
-###Introduction
+<h1>Introduction</h1>
 
 ###1.1 Purpose of Product
 
