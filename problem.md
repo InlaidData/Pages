@@ -34,25 +34,25 @@ this will introduce a kind of linear progression.
 
 <h3>Game Core</h3>
     
-    A central over world and a small base with several merchants and quest givers. For example, you get a quest and its in a dungeon, you retrieve an item and you bring it back. Or certain quests will have
-    you kill a certain enemy or amount of enemies. 
-    The game will continue to progress with this narrative until the ending quest, where you need to face a boss of some sort. 
+A central over world and a small base with several merchants and quest givers. For example, you get a quest and its in a dungeon, you retrieve an item and you bring it back. Or certain quests will have
+you kill a certain enemy or amount of enemies. 
+The game will continue to progress with this narrative until the ending quest, where you need to face a boss of some sort. 
 
 
 
 <h3>Gear</h3>
     
-    <b>Armor</b> - Chainmail armor, Plate armor, and leather armor. Leather armor being the weakest and offering the least defense boost. With plate offering the most defense and being the most durable. Chainmail is somewhere inbetween.
+<b>Armor</b> - Chainmail armor, Plate armor, and leather armor. Leather armor being the weakest and offering the least defense boost. With plate offering the most defense and being the most durable. Chainmail is somewhere inbetween.
 
-    <b>Weapons</b> - Swords, daggers, bow / arrows, and magic spells. Bows and Magic Spells offer ranged attacks while swords and daggers offer up close combat.
+<b>Weapons</b> - Swords, daggers, bow / arrows, and magic spells. Bows and Magic Spells offer ranged attacks while swords and daggers offer up close combat.
     
-    <b>Potions</b> - Health and Magic / Mana potions. All of these will add the their respective fields. 
+<b>Potions</b> - Health and Magic / Mana potions. All of these will add the their respective fields. 
     
-    <b>Fountains</b> - Health and Magic fountains where if you go near them they will either fill or bar / capacity or add some to it.
+<b>Fountains</b> - Health and Magic fountains where if you go near them they will either fill or bar / capacity or add some to it.
     
 <h3>Maps</h3>
     
-    <b>Overworld</b> - Main town / village / hub where you will have a main base with a few merchants around. You can trade with merchants using Rubies and store loot and gear in your main base / house. 
+<b>Overworld</b> - Main town / village / hub where you will have a main base with a few merchants around. You can trade with merchants using Rubies and store loot and gear in your main base / house. 
   		       There will also be quest givers that will you give out incentives to go into dungeons.
     
-    <b>Caves</b> - Dungeons will have enemies, loot, and fountians. You go in, kill some stuff, grab some stuff, then head out.
+<b>Caves</b> - Dungeons will have enemies, loot, and fountians. You go in, kill some stuff, grab some stuff, then head out.
