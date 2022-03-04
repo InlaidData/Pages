@@ -2,7 +2,7 @@
 
 1. [Problem Statement](problem.html)
 
-2. [User Stories](userstories.md)
+2. [User Stories](userstories.html)
 
 3. [Requirements](requirements.md)
 
