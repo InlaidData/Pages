@@ -84,6 +84,48 @@ As an average Terraria enthusiast, I want a functional combat system so that I c
 			  1. Some melee combat system, including the ability to slash enemies from up close with swords or daggers.
 			  2. Some ranged combat system, including the ability to damage enemies from afar using bows or spells.
 
+<h3>2.1 Combat System</h3>
+
+As an average FromSoft fan, I enjoy overcoming the challenge of a difficult boss that can kill me in two hits if I don't play it smart. 
+
+<b>Elaboration</b>:
+			  Users of this game should face challenging enemies that require thoughtful planning in order to defeat said enemy
+
+<b>Constraints</b>:
+			  Enemy difficulty is subjective. Given project scope and developer ability, it will be difficult coming 
+			  up with enemies and enemy actions that are difficult but fair. 
+
+<b>Effort Estimation</b>: 
+			  30 person hours.
+
+<b>Acceptance Test</b>:
+			  Test to see if we have:
+			  1. Enemies that can preform in ways you would expect an enemy to. 
+			  2. Ability to make enemies difficult based on aspects other than a large health bar. 
+			  3. Have varied enemy types 
+
+<h3>2.2 Combat System</h3>
+
+As an average RPG gamer, I enjoy being able to chose how I fight being able to have that fighting style be viable in the long run. 
+
+<b>Elaboration</b>:
+			  Users of this game should be able to chose between magical projectiles, one-handed swords, daggers, etc. 
+			  and be able to beat the game as easily with that weapon as any other weapon. 
+
+<b>Constraints</b>:
+			  Enemy difficulty is subjective. Given project scope and developer ability, it will be difficult coming 
+			  up with enemies and enemy actions that are difficult but fair. 
+
+<b>Effort Estimation</b>: 
+			  25 person hours.
+
+<b>Acceptance Test</b>:
+			  Test to see if we have:
+			  1. Different weapon types beyond ranged and melee. 
+			  2. Different weapon types change gameplay in a small but meaningful way. 
+			  3. Be able to pick and chose weapons and weapon types. 
+
+
 
 <h3>3 Looting System</h3>
 
@@ -104,3 +146,44 @@ As a regular Escape from Tarkov enjoyer, I want a fun a rewarding looting system
 			  1. Tiers of loot, like things for low, medium, and high levels.
 			  2. Plenty of chests in each dungeon where you can get this loot.
 			  3. Plenty of rubies in each chest so it is possible to upgrade your gear.
+
+<h3>4 Inventory System</h3>
+
+As an average RPG gamer, I like being able to see what I've picked up and interacting with what I've picked up.
+
+<b>Elaboration</b>:
+			  User should be able to open up a menu that allows user to interact with items they've picked up throughout the world. 
+			  Interaction can come in the form of using, equipping, and dropping. 
+
+<b>Constraints</b>:
+			  How to differentiate between using and equipping. Will have to depend on on mouse and keyboard interactions.
+
+<b>Effort Estimation</b>: 
+			  30 person hours.
+
+<b>Acceptance Test</b>:
+			  Test to see if we have:
+			  1. An inventory menu that accurately shows what you have picked up through out the world. 
+			  2. Inventory menu is intractable. 
+			  3. Inventory menu is easily understandable
+
+
+<h3>4.1 Inventory Hot Bar</h3>
+
+As an average inventory user, I like being able to use items on the run rather than having to stop everything I'm doing to use it.
+
+<b>Elaboration</b>:
+			  User should be able to use items they've picked up through out the world without having to go through the effort of opening inventory menu, 
+			  finding item in inventory, and using item all while other aspects of the game is going on like combat. 
+
+<b>Constraints</b>:
+			  Differentiating between inventory and hot bar and transferring information between the two. 
+
+<b>Effort Estimation</b>: 
+			  45 person hours.
+
+<b>Acceptance Test</b>:
+			  Test to see if we have:
+			  1. The ability to use items from both inventory and hot bar. 
+			  2. Setting items from the inventory into the hot bar without deletion from the inventory. 
+			  3. Hot bar usage is intuitive to the user.
