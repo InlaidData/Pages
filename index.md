@@ -4,7 +4,7 @@
 
 2. [User Stories](userstories.html)
 
-3. [Requirements](requirements.md)
+3. [Requirements](requirements.html)
 
 4. [Architecture](architecture.md)
 

@@ -22,6 +22,49 @@ so that I can fulfill my need for a new RPG.
 			 3. Weapons, armour, and other gear along with a character selector at the beginning of the game, 
 			 	all of which prove character building.
 
+<h3>1.1 Questing </h3>
+
+As someone who greatly enjoys playing The Elder Scrolls: Oblivion, I want to have some level of questing so that I can feel
+like I am accomplishing something.
+
+<b>Elaboration</b>: 
+			 Users of this game should be able to do basic questing. This includes talking to an NPC who
+			 will give you an objective. The player should then complete the objective for a reward. 
+
+<b>Constraints</b>: 
+		     The quests cannot be overly complicated to the point of confusion.
+
+<b>Effort Estimation</b>: 
+			 20 person-hours
+
+<b>Acceptance Test</b>: 
+			 Test to see if we have:
+			 1. Functional npc's that can give out quests. 
+			 2. Quests are straight foward and non-confusing.
+			 3. Quests should provide a sense of accomplishment by giving a reward.
+
+<h3>1.2 Character Customization </h3>
+
+As a gamer who enjoys playing The Sims, I want to have the ability to customize my character so that I can feel that my character
+is somewhat unique.
+
+<b>Elaboration</b>: 
+			 Users of this game should be able to have some basic level of character customization.
+			 This includes the ability to pick between at least two separate characters at the beginnning of 
+			 the game.
+
+<b>Constraints</b>: 
+		     Cannot have too many options to the point of being overwhelming.
+
+<b>Effort Estimation</b>: 
+			 5 person-hours
+
+<b>Acceptance Test</b>: 
+			 Test to see if we have:
+			 1. A character picker screen at the beginning of the game.
+   			 2. More than one character to choose from.
+			 3. An uncomplicated system for choosing your character.
+
 <h3>2 Combat System</h3>
 
 As an average Terraria enthusiast, I want a functional combat system so that I can get fun and satisfaction out of slaying my enemies.
