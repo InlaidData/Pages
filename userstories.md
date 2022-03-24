@@ -187,3 +187,60 @@ As an average inventory user, I like being able to use items on the run rather t
 			  1. The ability to use items from both inventory and hot bar. 
 			  2. Setting items from the inventory into the hot bar without deletion from the inventory. 
 			  3. Hot bar usage is intuitive to the user.
+
+<h3>5 Story Progression</h3>
+
+As an average RPG gamer, I would like to work toward an endgame gameplay.
+
+<b>Elaboration</b>:
+			  User should feel rewarded for feats and work through a storyline with a start and finish.
+
+<b>Constraints</b>:
+			  How to differentiate between what is important for a well designed storyline and what could be considered as trivial.
+
+<b>Effort Estimation</b>: 
+			  25 person hours.
+
+<b>Acceptance Test</b>:
+			  Test to see if we have:
+			  1. Meaningful gameplay to influence chracter and story progression.  
+			  2. Creating a main story arc, with a meaninful end
+
+<h3>5.1 Post-storyline</h3>
+
+As an average RPG gamer, I would like to have end gameplay that can be played after the storyline of our game.
+
+<b>Elaboration</b>:
+			  User should have some gameplay after the storyline has been completed.
+
+<b>Constraints</b>:
+			  How to create a sort of gameplay that is free from the game's main storyline, allowing for continuous gameplay.
+
+<b>Effort Estimation</b>: 
+			  25 person hours.
+
+<b>Acceptance Test</b>:
+			  Test to see if we have:
+			  1. A sort of gameplay that is seperate from a main campaign.  
+			  2. A reason to continue playing our game, even when the storyline is complete.
+
+<h3>5.2 Character Growth</h3>
+
+As an average RPG gamer, I like to be able to level and develop my characters strength, health, stamina, and magicka.
+
+<b>Elaboration</b>:
+			  User should be able to advance in character stats and have choices of doing so.
+
+<b>Constraints</b>:
+			  How to make a fair leveling experience while making sure it is not too trivial or hard.
+
+<b>Effort Estimation</b>: 
+			  30 person hours.
+
+<b>Acceptance Test</b>:
+			  Test to see if we have:
+			  1. Meaninful improvements able to be made on the players character.  
+			  2. Leveling up should not be too easy or too hard, it should be as fair as possible to make an enjoyable game.   
+
+
+
