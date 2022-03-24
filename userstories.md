@@ -240,7 +240,26 @@ As an average RPG gamer, I like to be able to level and develop my characters st
 <b>Acceptance Test</b>:
 			  Test to see if we have:
 			  1. Meaninful improvements able to be made on the players character.  
-			  2. Leveling up should not be too easy or too hard, it should be as fair as possible to make an enjoyable game.   
+			  2. Leveling up should not be too easy or too hard, it should be as fair as possible to make an enjoyable game. 
+  
+
+<h3>6 Level Design</h3>
+
+As an average Dungeon Crawler enjoyer, I like to have maps that are fun and intuitive to travel through.
+
+<b>Elaboration</b>:
+			  User should be able to traverse different dungeons and make it to the end without too much effort.
+
+<b>Constraints</b>:
+			  How to create levels that do not take away from the core gamaplay and do not get in the way of the player.
+
+<b>Effort Estimation</b>: 
+			  30 person hours.
+
+<b>Acceptance Test</b>:
+			  Test to see if we have:
+			  1. Intuitive levels that are easy to navigate.  
+			  2. Make them thoughtfully laid out with abundant loot.
 
 
 
