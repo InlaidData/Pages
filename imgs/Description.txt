@@ -1,0 +1,70 @@
+User: interacts with the following
+
+- game world
+
+----------------------------------------------------------------------------------------------------
+
+Game World: Contains the following 
+
+- player character, user will predominately control this with certain input
+- enemies, will act on their own within certain parameters
+- intractables, will have certain behaviors that can be exploited by users/player character
+
+----------------------------------------------------------------------------------------------------
+
+
+Player Character: contained by gameWorld, will use, and have the following
+
+(Use)
+
+- boxCollider 2D, this allows the player character to interact with the world and not pass through 
+  what should not be passed through 
+
+(Have)
+
+- damage, allows the player to "disable" enemies 
+- health, determines when the player has to respawn
+- user, will control player character 
+
+----------------------------------------------------------------------------------------------------
+
+
+Enemy: contained by gameWorld, Will use, and have the following 
+
+(Use)
+
+- Enemy Artificial Intelligence (AI), this will allow enemies to act in specific ways that are
+  dependent on the player 
+
+- boxCollider 2D, this allows the enemy character to interact with the world and player as well as
+  not pass through what should not be passed through 
+
+(Have)
+
+- damage, allows the enemies to "disable" player Character 
+- health, determines when the enemy has to be disabled
+
+----------------------------------------------------------------------------------------------------
+
+
+Interactables: contained by gameWorld, intractable by player, will include the following
+
+- healthPot, allows player to replenish health points
+- chest, will contain loot that can be used by player 
+- healthFountain, allows player to replenish health points
+
+----------------------------------------------------------------------------------------------------
+
+Box/Circle Collider 2D: uses and is used by the following 
+
+(Used)
+
+- interactables
+- player 
+- enemies
+
+(Uses)
+
+- collision, this allows anything that used colliders to not be able to pass through certain things
+  And trigger certain events 
+

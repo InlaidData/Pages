@@ -35,7 +35,77 @@ We’re going for a more lighthearted theme.
 The product will be used in an entertainment environment. We will release the game for PC only.
 
 <h4>2.2 Domain Model with Description</h4>
-Display and describe your domain model.
+
+<img src="imgs/domain_model.jpg">
+<h5>User: interacts with the following</h5>
+
+- game world
+
+----------------------------------------------------------------------------------------------------
+
+<h5>Game World: Contains the following </h5>
+
+- player character, user will predominately control this with certain input
+- enemies, will act on their own within certain parameters
+- intractables, will have certain behaviors that can be exploited by users/player character
+
+----------------------------------------------------------------------------------------------------
+
+
+<h5>Player Character: contained by gameWorld, will use, and have the following</h5>
+
+<b>(Use)</b>
+
+- boxCollider 2D, this allows the player character to interact with the world and not pass through 
+  what should not be passed through 
+
+<b>(Have)</b>
+
+- damage, allows the player to "disable" enemies 
+- health, determines when the player has to respawn
+- user, will control player character 
+
+----------------------------------------------------------------------------------------------------
+
+
+<h5>Enemy: contained by gameWorld, Will use, and have the following </h5>
+
+<b>(Use)</b>
+
+- Enemy Artificial Intelligence (AI), this will allow enemies to act in specific ways that are
+  dependent on the player 
+
+- boxCollider 2D, this allows the enemy character to interact with the world and player as well as
+  not pass through what should not be passed through 
+
+<b>(Have)</b>
+
+- damage, allows the enemies to "disable" player Character 
+- health, determines when the enemy has to be disabled
+
+----------------------------------------------------------------------------------------------------
+
+
+<h5>Interactables: contained by gameWorld, intractable by player, will include the following</h5>
+
+- healthPot, allows player to replenish health points
+- chest, will contain loot that can be used by player 
+- healthFountain, allows player to replenish health points
+
+----------------------------------------------------------------------------------------------------
+
+<h5>Box/Circle Collider 2D: uses and is used by the following </h5>
+
+<b>(Used)</b>
+
+- interactables
+- player 
+- enemies
+
+<b>(Uses)</b>
+
+- collision, this allows anything that used colliders to not be able to pass through certain things
+  And trigger certain events 
 
 <h4>2.3 Product Functions (general)</h4>
 
