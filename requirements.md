@@ -36,7 +36,7 @@ The product will be used in an entertainment environment. We will release the ga
 
 <h4>2.2 Domain Model with Description</h4>
 
-<img src="imgs/domain_model.jpg">
+<img src="imgs/domain_model.JPG">
 <h5>User: interacts with the following</h5>
 
 - game world
