@@ -6,9 +6,9 @@
 
 3. [Requirements](requirements.html)
 
-4. [Architecture](architecture.md)
+4. [Architecture](architecture.html)
 
-5. [Design Document](design.md)
+5. [Design Document](design.html)
 
-6. [Test Report](testreport.md)
+6. [Test Report](testreport.html)
 
