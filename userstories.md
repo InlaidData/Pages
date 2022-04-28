@@ -18,7 +18,7 @@ so that I can fulfill my need for a new RPG.
 <b>Acceptance Test</b>: 
 			 Test to see if we have:
 			 1. Functional npc's that can give out quests. 
-			 2. Some kind of progressable storyline.
+			 2. Some kind of questline.
 			 3. Weapons, armour, and other gear along with a character selector at the beginning of the game, 
 			 	all of which prove character building.
 
@@ -41,7 +41,7 @@ like I am accomplishing something.
 			 Test to see if we have:
 			 1. Functional npc's that can give out quests. 
 			 2. Quests are straight foward and non-confusing.
-			 3. Quests should provide a sense of accomplishment by giving a reward.
+			 3. Quests should provide a sense of accomplishment by giving a reward at the end of dungeons.
 
 <h3>1.2 Character Customization </h3>
 
@@ -84,7 +84,7 @@ As an average Terraria enthusiast, I want a functional combat system so that I c
 			  1. Some melee combat system, including the ability to slash enemies from up close with swords or daggers.
 			  2. Some ranged combat system, including the ability to damage enemies from afar using bows or spells.
 
-<h3>2.1 Combat System</h3>
+<h3>2.1 Challenging Enemies</h3>
 
 As an average FromSoft fan, I enjoy overcoming the challenge of a difficult boss that can kill me in two hits if I don't play it smart. 
 
@@ -104,7 +104,7 @@ As an average FromSoft fan, I enjoy overcoming the challenge of a difficult boss
 			  2. Ability to make enemies difficult based on aspects other than a large health bar. 
 			  3. Have varied enemy types 
 
-<h3>2.2 Combat System</h3>
+<h3>2.2 Combat Prefrences</h3>
 
 As an average RPG gamer, I enjoy being able to chose how I fight being able to have that fighting style be viable in the long run. 
 
@@ -153,7 +153,7 @@ As an average RPG gamer, I like being able to see what I've picked up and intera
 
 <b>Elaboration</b>:
 			  User should be able to open up a menu that allows user to interact with items they've picked up throughout the world. 
-			  Interaction can come in the form of using, equipping, and dropping. 
+			  Interaction can come in the form of using and dropping. 
 
 <b>Constraints</b>:
 			  How to differentiate between using and equipping. Will have to depend on on mouse and keyboard interactions.
@@ -224,23 +224,6 @@ As an average RPG gamer, I would like to have end gameplay that can be played af
 			  1. A sort of gameplay that is seperate from a main campaign.  
 			  2. A reason to continue playing our game, even when the storyline is complete.
 
-<h3>5.2 Character Growth</h3>
-
-As an average RPG gamer, I like to be able to level and develop my characters strength, health, stamina, and magicka.
-
-<b>Elaboration</b>:
-			  User should be able to advance in character stats and have choices of doing so.
-
-<b>Constraints</b>:
-			  How to make a fair leveling experience while making sure it is not too trivial or hard.
-
-<b>Effort Estimation</b>: 
-			  30 person hours.
-
-<b>Acceptance Test</b>:
-			  Test to see if we have:
-			  1. Meaninful improvements able to be made on the players character.  
-			  2. Leveling up should not be too easy or too hard, it should be as fair as possible to make an enjoyable game. 
   
 
 <h3>6 Level Design</h3>
