@@ -60,4 +60,4 @@ Here is a list of all requirements, accompanied by completion status, by User St
 <h4>4.1 Inventory Hot Bar</h4> COMPLETE
 <h4>5 Story Progression</h4> COMPLETE
 <h4>5.1 Post Storyline</h4> COMPLETE
-<h4>6 Level Design</h3> COMPLETE
+<h4>6 Level Design</h4> COMPLETE
