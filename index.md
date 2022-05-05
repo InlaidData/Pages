@@ -1,4 +1,7 @@
-## 2D RPG Game
+<h1>Everblade</h1>
+
+This is a 2D RPG game developed by Dane, James, and Fransisco. We have implemented most of our 
+requirements listed in the User Stories, and marked any that we didn't get too as "future work".
 
 1. [Problem Statement](problem.html)
 

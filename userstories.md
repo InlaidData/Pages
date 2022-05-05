@@ -28,8 +28,8 @@ As someone who greatly enjoys playing The Elder Scrolls: Oblivion, I want to hav
 like I am accomplishing something.
 
 <b>Elaboration</b>: 
-			 Users of this game should be able to do basic questing. This includes talking to an NPC who
-			 will give you an objective. The player should then complete the objective for a reward. 
+			 Users of this game should be able to do basic questing. This includes going to different 
+			 dungeons in order to complete a quest. The player should then complete the objective for a reward. 
 
 <b>Constraints</b>: 
 		     The quests cannot be overly complicated to the point of confusion.
@@ -43,7 +43,7 @@ like I am accomplishing something.
 			 2. Quests are straight foward and non-confusing.
 			 3. Quests should provide a sense of accomplishment by giving a reward at the end of dungeons.
 
-<h3>1.2 Character Customization </h3>
+<h3>1.2 Character Customization </h3> **FUTURE WORK**
 
 As a gamer who enjoys playing The Sims, I want to have the ability to customize my character so that I can feel that my character
 is somewhat unique.
@@ -190,7 +190,7 @@ As an average inventory user, I like being able to use items on the run rather t
 
 <h3>5 Story Progression</h3>
 
-As an average RPG gamer, I would like to work toward an endgame gameplay.
+As an average RPG gamer, I would like to work toward an endgame gameplay. **FUTURE WORK**
 
 <b>Elaboration</b>:
 			  User should feel rewarded for feats and work through a storyline with a start and finish.
